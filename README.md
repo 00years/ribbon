@@ -6,7 +6,7 @@
 ### 使用方法
 复制下面一段代码放到你的首页`<body>`里面
 ``` python
-<script src="https://oexo.cn/ribbon/ribbon.min.js"></script>
+<script src="https://hwjy.github.io/ribbon/ribbon.min.js" type="text/javascript"></script>
 ```
 
 ### 谁的
