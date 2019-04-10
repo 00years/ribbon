@@ -4,9 +4,9 @@
 [点击这里](https://hwjy.github.io/ribbon/)
 
 ### 使用方法
-复制下面一段代码放到你的首页`<body>`里面
+使用了jsdelivr加速，复制下面一段代码放到你的首页`<body>`里面
 ``` python
-<script src="https://hwjy.github.io/ribbon/ribbon.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/gh/hwjy/ribbon@v1.0/ribbon.min.js" type="text/javascript"></script>
 ```
 
 ### 谁的
