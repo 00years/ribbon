@@ -9,5 +9,5 @@
 <script src="https://cdn.jsdelivr.net/gh/lasiji/ribbon@v1.0/00years.min.js" type="text/javascript"></script>
 ```
 
-### 谁的
+### 原作者
 [hustcc](https://github.com/hustcc/ribbon.js)
